@@ -40,4 +40,7 @@ Bagian 3: Membuat API dengan XML menggunakan php
 
 3.	Menjalankan server
 4.	Mengakses API dengan browser untuk mengakses http://localhost/person.php
-   ![Uploading Screenshot 2024-10-15 151813.png…]()
+	
+![Screenshot 2024-10-15 151813](https://github.com/user-attachments/assets/ad616254-6d96-477b-95e6-c0930ff11238)
+
+
